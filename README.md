@@ -11,5 +11,5 @@ ll enable an AI Coding Agent to produce consistent result.
 Give an AI Coding Agent the following instruction to start
 
 ```text
-I want you to complete a project according to specification you sill find in spec.md
+I want you to complete a project according to specification you will find in spec.md
 ```
